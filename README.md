@@ -6,7 +6,9 @@ Descripción
 
 ¡Bienvenidos al fascinante mundo de Pokémon! En este servidor, cualquier amig@ de Marce puede unirse a la aventura y disfrutar de emocionantes batallas. Pero cuidado: ¡quien se pase de listo se va a la calle! 😜
 
-Dirección IP del servidor: battlefrontiers.aternos.me
+Dirección IP del servidor: BattleFrontiers.aternos.me
+
+Version: 1.16.5 mods/plugins
 
 Normas
 
