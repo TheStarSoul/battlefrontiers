@@ -1,1 +1,18 @@
-# battlefrontiers
+# Battle Frontiers
+## Servidor de la Tía Marce || by StardustOwO
+Descripción
+
+¡Bienvenidos al fascinante mundo de Pokémon! En este servidor, cualquier amig@ de Marce puede unirse a la aventura y disfrutar de emocionantes batallas. Pero cuidado: ¡quien se pase de listo se va a la calle! 😜
+
+Dirección IP del servidor: battlefrontiers.aternos.me
+Normas
+
+- Trampas no, gracias: Cualquier intento de hacer trampas será sancionado. Primer aviso, ¡a estar atentos! >
+- Respeto ante todo: Si alguien comienza a molestar seriamente a la Tía Marce, ¡será expulsado!
+- Acceso al servidor: Para unirte, debes ser aprobado en la whitelist. Asegúrate de tener el permiso de Marce o mío.
+
+Mods
+
+Los mods están disponibles en la carpeta mods dentro de este repositorio. Puedes descargarlos directamente o buscarlos en la página oficial.
+
+¡Esperamos verte pronto en el servidor! 🕹️
